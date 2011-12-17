@@ -1,0 +1,7 @@
+[utterramblings]
+name=JasonLitka Repo
+baseurl=http://www.jasonlitka.com/media/EL$releasever/$basearch/
+enabled=1
+gpgcheck=1
+gpgkey=http://www.jasonlitka.com/media/RPM-GPG-KEY-jlitka
+includepkgs=php* mysql* libmysqlclient*
