@@ -1,1 +1,1 @@
-rpm -Uvh http://download.fedora.redhat.com/pub/epel/5Server/x86_64/epel-release-5.3.noarch.rpm
+rpm -Uvh http://download.fedora.redhat.com/pub/epel/5Server/x86_64/epel-release-5-4.noarch.rpm
